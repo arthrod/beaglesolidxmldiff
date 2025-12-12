@@ -52,7 +52,7 @@
     "object-assign": "^4.1.0",
     "object-inspect": "^1.2.1",
     "qs": "^6.5.1",
-    "radium": "^0.18.1",
+    "radium": "^0.26.2",
     "react": "^15.4.2",
     "react-addons-css-transition-group": "^15.4.0",
     "react-addons-pure-render-mixin": "^15.4.0",
