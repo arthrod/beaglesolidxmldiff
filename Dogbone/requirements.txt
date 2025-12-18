@@ -66,3 +66,4 @@ South==1.0.2
 Unidecode==0.4.16
 validators==0.10.1
 wikipedia==1.4.0
+tornado>=6.5.3 # not directly required, pinned by Snyk to avoid a vulnerability
