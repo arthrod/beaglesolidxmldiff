@@ -8,7 +8,7 @@ chardet==2.2.1
 coverage==4.4.2
 cryptography==2.1.4
 Django==1.10.5
-django-allauth==0.30.0
+django-allauth==65.13.0
 django-constance==2.0.0
 django-filter==1.0.4
 django-filters==0.2.1
