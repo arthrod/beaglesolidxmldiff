@@ -43,13 +43,13 @@ oauthlib==2.0.2
 packaging==16.8
 pbr==3.0.1
 psycopg2==2.6.2
-pyasn1==0.4.2
+pyasn1==0.6.2
 pyasn1_modules==0.2.1
 pycodestyle==2.0.0
 pydrive==1.3.1
 pyflakes==1.2.3
 pyparsing==2.2.0
-pyPdf==1.13
+pyPdf==6.6.0
 PyStemmer==1.3.0
 python-dateutil==2.6.0
 python-docx==0.8.6
