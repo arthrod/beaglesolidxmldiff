@@ -39,7 +39,7 @@
     "classnames": "^2.2.5",
     "comma-separated-values": "^3.6.4",
     "d3": "^4.4.1",
-    "diff": "^3.2.0",
+    "diff": "^8.0.3",
     "draft-js": "^0.10.0",
     "dropbox": "^2.5.2",
     "humanize-url": "^1.0.1",
