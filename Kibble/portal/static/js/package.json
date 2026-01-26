@@ -65,7 +65,7 @@
     "sinon": "^1.17.3",
     "style-loader": "^0.13.1",
     "url-loader": "^0.5.7",
-    "webpack": "^2.1.0-beta.6",
+    "webpack": "^5.0.0",
     "webpack-dev-server": "^2.1.0-beta"
   },
   "dependencies": {
@@ -99,6 +99,6 @@
     "universal-cookie": "^2.0.8",
     "uuid": "^3.0.1",
     "uuid-validate": "^0.0.2",
-    "webpack": "^2.2.0"
+    "webpack": "^5.0.0"
   }
 }
