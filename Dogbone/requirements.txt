@@ -44,7 +44,7 @@ lxml==3.4.1
 mock==1.0.1
 ndg-httpsclient==0.4.0
 newspaper==0.0.9.8
-nltk==3.2.5
+nltk==3.9.4
 numpy==1.12.0
 psycopg2==2.5.2
 pycrypto==2.6.1
