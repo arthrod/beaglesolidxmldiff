@@ -6,7 +6,7 @@ boto3==1.4.8
 celery==4.1.0
 chardet==2.2.1
 coverage==4.4.2
-cryptography==2.1.4
+cryptography==48.0.1
 Django==1.10.5
 django-allauth==0.30.0
 django-constance==2.0.0
